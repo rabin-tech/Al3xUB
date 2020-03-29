@@ -41,13 +41,13 @@ async def _(event):
             "`Randi Founded`",
             "`Now Fucking Your Ass`",
             "`Fucking Your Ass\n\n\nDon't worry i will go slow\nPenetration\n\nAlmost Done... 0%\n▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
-            "`Fucking Your Mom\n\n\nYou Like it Don't You?\nnPenetration\n\nAlmost Done...\n\nFucked Percentage... 4%\n█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
-            "`Fucking Your Mom\n\n\nCall Me Daddy!!1\nnPenetration\n\nAlmost Done...\n\nFucked Percentage... 8%\n██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",    
-            "`Fucking Your Mom\n\n\nSay Fuck Me On My Ass\nnPenetration\n\nAlmost Done...\n\nFucked Percentage... 20%\n█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
-            "`Fucking Your Mom\n\n\nYou Want More?\nnPenetration\n\nAlmost Done...\n\nFucked Percentage... 36%\n█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
-            "`Fucking Your Mom\n\n\nThat Feels GOOD\nnPenetration\n\nAlmost Done...\n\nFucked Percentage... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
-            "`Fucking Your Mom\n\n\nCall Me Daddy\nnPenetration\n\nAlmost Done...\n\nFucked Percentage... 84%\n█████████████████████▒▒▒▒ `",
-            "`Fucking Your Mom\n\n\nSay My Name! Bitch\nnPenetration\n\nAlmost Done...\n\nFucked Percentage... 100%\n█████████████████████████ `",
+            "`Fucking Your Mom\n\n\nYou Like it Don't You?\nPenetration\n\nAlmost Done...\n\nFucked Percentage... 4%\n█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
+            "`Fucking Your Mom\n\n\nCall Me Daddy!!1\nPenetration\n\nAlmost Done...\n\nFucked Percentage... 8%\n██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",    
+            "`Fucking Your Mom\n\n\nSay Fuck Me On My Ass\nPenetration\n\nAlmost Done...\n\nFucked Percentage... 20%\n█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
+            "`Fucking Your Mom\n\n\nYou Want More?\nPenetration\n\nAlmost Done...\n\nFucked Percentage... 36%\n█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
+            "`Fucking Your Mom\n\n\nThat Feels GOOD\nPenetration\n\nAlmost Done...\n\nFucked Percentage... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
+            "`Fucking Your Mom\n\n\nCall Me Daddy\nPenetration\n\nAlmost Done...\n\nFucked Percentage... 84%\n█████████████████████▒▒▒▒ `",
+            "`Fucking Your Mom\n\n\nSay My Name! Bitch\nPenetration\n\nAlmost Done...\n\nFucked Percentage... 100%\n█████████████████████████ `",
             "`Fucking Your Mom\n\n\nCumming on your Ass\nGo! See a Doctor Bitch. You might need Abortion\n\nYou got Pregnant\n\nResult: Never Mess With Al3x!!! `"
         ]
 
