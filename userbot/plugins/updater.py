@@ -47,13 +47,13 @@ IS_SELECTED_DIFFERENT_BRANCH = (
 OFFICIAL_UPSTREAM_REPO = "https://github.com/al3x13337/Al3xUB"
 BOT_IS_UP_TO_DATE = "`The userbot is up-to-date (Master Alex).\nThank you for Using my service.`"
 NEW_BOT_UP_DATE_FOUND = (
-    "new update found for {branch_name}\n"
-    "changelog: \n\n{changelog}\n"
-    "updating ..."
+    "Hey Master Al3x! New Update Found For {branch_name}\n"
+    "\n\n{changelog}\n"
+    "Hold On Master...Updating ..."
 )
 NEW_UP_DATE_FOUND = (
-    "New update found for {branch_name}\n"
-    "`updating ...`"
+    "Hey Master Al3x! New Update Found For {branch_name}\n"
+    "`Hold On Master...Updating`"
 )
 REPO_REMOTE_NAME = "temponame"
 IFFUCI_ACTIVE_BRANCH_NAME = "master"
