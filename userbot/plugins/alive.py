@@ -12,11 +12,11 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "WTF Noob! Couldn't even set AL
 async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     await alive.edit("**`You Thought I Was Gonna DIE? PFFFTTTTTTT! Surprise MotherF*cker`**\n\n"
-                    "`******Al3x Priv8 Userbot - Final Edition******\n\n"
-                     "`Telethon version: 6.9.0\nPython: 3.7.3\n"
+                    "******`Al3x Priv8 Userbot - Final Edition`******\n\n"
+                     "`Telethon version: 6.9.0\nPython: 3.7.3\n`"
                      "`Database Status: Databases functioning normally!\n\nAlways with you, my master!\n`"
                      f"`My peru owner`: {DEFAULTUSER}\n\n"
                      "`Newly Added Features:\n`"
                      "`- Ncell Bomber:\n`"
-                     "`- NTC Bomber:\n\n\n`"
+                     "`- NTC Bomber:\n\n`"
                      "`Special Thanks To @Dr34m_C4t and @scifidemon For Scripts.\n`")
