@@ -18,5 +18,9 @@ async def amireallyalive(alive):
                      f"`My peru owner`: {DEFAULTUSER}\n\n"
                      "`Newly Added Features:\n`"
                      "`- Ncell Bomber:\n`"
-                     "`- NTC Bomber:\n\n`"
+                     "`- NTC Bomber\n`"
+                     "`- NTC Bomber\n\n`"
+                     "`- Temp-Mail\n`"
+                     "`- Torlink and\n`"
+                     "`- Magnet link\n\n`"
                      "Special Thanks To @Dr34m_C4t and @scifidemon For Scripts.\n")
