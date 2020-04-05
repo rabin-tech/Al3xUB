@@ -19,7 +19,6 @@ async def amireallyalive(alive):
                      "`Newly Added Features:\n`"
                      "`- Ncell Bomber:\n`"
                      "`- NTC Bomber\n`"
-                     "`- NTC Bomber\n\n`"
                      "`- Temp-Mail\n`"
                      "`- Torlink and\n`"
                      "`- Magnet link\n\n`"
