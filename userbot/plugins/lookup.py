@@ -7,7 +7,7 @@ import json
 async def _(event):
     input_str = event.pattern_match.group(1)
     if input_str:
-        bin = input_str
+        BIN = input_str[:6]
     else:
         await event.edit("No BIN entered!")
         return
@@ -15,14 +15,12 @@ async def _(event):
     await event.edit("Looking Up the BIN...")
     try:
         data = get(URL).json()
-    except:
-        await event.edit("Invalid BIN")
-    try:
         name = data["bank"]["name"]
         scheme = data["scheme"]
         typ = data["type"]
         brand = data["brand"]
         country = data["country"]["name"]
         await event.edit(f"Name: {name}\nScheme: {scheme}\nType: {typ}\nBrand: {brand}\nCountry: {country}")
-    except NameError:
+    except:
         await event.edit("Invalid BIN")
+    
